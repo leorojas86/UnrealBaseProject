@@ -1,0 +1,6 @@
+BaseProject/Binaries/
+BaseProject/Intermediate/
+BaseProject/Saved/
+*.sln
+*.sdf
+*.suo
